@@ -11,11 +11,11 @@ Go to the official site: Zano.org
 Go to Downloads, which takes you to:
 https://github.com/hyle-team/zano/releases
 
-![Hx6bYgI.png](https://iili.io/Hx6bYgI.png)
+![](/home/shawn/.config/marktext/images/2023-02-03-09-07-30-image.png)
 
 ## Step (3)
 
-Download Linux (Ubuntu 16.04+) CLI Wallet
+Download Ubuntu (this package contains the CLI Wallet, zanod, etc.)
 
 ![Hx6b6rB.png](https://iili.io/Hx6b6rB.png)
 
